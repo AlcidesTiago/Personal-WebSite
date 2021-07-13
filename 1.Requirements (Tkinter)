@@ -1,0 +1,9 @@
+For creating this notepad, Python 3 and Tkinter should already be installed in your system. You can download suitable 
+python package as per system requirement. After you have successfully installed python you need to install Tkinter
+(a Python’s GUI package).
+
+Use this command to install Tkinter :
+
+1. pip install python-tk
+
+2. pip install pillow
